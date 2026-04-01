@@ -1,0 +1,12 @@
+{
+  "keys": [
+      {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "hhft-cis2-int-1",
+      "alg": "RS512",
+      "n": "AAAAB3NzaC1yc2EAAAADAQABAAABAQDBOFiLCEgKa/uu8zvWFaa4HAfFxl3zMd/SUjoBhRWN+rR13Yr66o+sxFHyNPXNselngKEH5Wk0XpIrirRuJNG1FTmEV2x9O9ushVsCd6CgDA5En1DUcBInfKLlTvKbyKLSwG86dkq+smtZkxXLYu2rG/bdTvo/dzfbKBQD6QEsCYsvmVGG3RYzWzzNGo3AkCcEznbc9gPfdVcWQaOwT2DqClLCTPDqJXe1C5ny/ZWqy4n6CVKmp7qzVzN6XU4zixXB1Pf51srSC2Vwj7ooSJwwddLEIJ0TYELIJkGREE5fgURmXKyktekj0hUbRupNHzlAxIHoNsYf2zYJt9jzqvwV"
+  }
+  ]
+}
