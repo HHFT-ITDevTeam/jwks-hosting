@@ -2,7 +2,7 @@
     "kty": "RSA",
     "e": "AQAB",
     "use": "sig",
-    "kid": "hhft-cis2-int-1",
-    "alg": "RSA512",
+    "kid": "5149162687.hhft_cis2_auth_with_pk-pn.a9dd26a0-d6fc-496d-8a82-b28242e20c58.apps",
+    "alg": "RS512",
     "n": "t6WIQQbXkyhKWoyVVADUKD9aCxjOikKCEU7OAu4bcXAU11DT_ksy9M_zjd-74KZQy7Q7LcgslNZ1yEqfiK4-CZ0HUxkJkeybQs1qWkjgFOUq2TJ5_QGbBwCxFmaye0ZE-b_yekDBSSr9uLvA6fiLkTV6r-rb0WT0MQy7CrbqRHh76E_JZROInrMeID6I-F72LPccw63PjvXbgPsYKmufQ6hfdPMGVBO_CfLWAash_ywpEOpPnQ5imSji7eetBw8Da0SeKCDg1mwb-3osBT-oBIn_PGPlRI4EQcdARbOine4PI9RqitkOEzXPHb1Qrk2UwL4mpn20W9DSXe_lRxGjzuH-TVq-8S34zLpsdKQa6EKFZgd91DGS6zdPw8Z4jFfdVwy4uIxVvRz1wdYejwTWfntyRVnP8FoFE3cm8Ssa1WgvaBQoij4b-5DxW-Jp59sDrdJkkCse5kEihgv40z-WmEdr0CPM2Q0BR3sB2fAaxGVS8aMCCUZv5m5B1CJMdyVIxHa-3FT7OKdnK2E4xUO0h764P0w6WHbciaUico5rWN6h9N62DBF1RXtq_QTOKqHCfsXXNm3RL0IfIQjXg2jQXfEKDFcAR_GpGSzupC0_RKqQiB2ehX3uYwspSzefOeNLsbty17v1UCk-bvRG-KZ3Sq96g7gw7_lKMBEQMyd6fR0"
 }
